@@ -1,1 +1,5 @@
 # ContactService-App
+
+To ensure my code and overall software is secure, I implemented different layers of security. I added a input validation for objects being created to make sure that I deter any cyber attacks or threats while also meeting the requirements for the kind of input they wanted. I sequentially wrote JUnit tests with coverage for each requiremenet. This allow to see if methods like validating input was actually working and doing what it's supposed to do. 
+
+It's important that when you're interviewing your clients to determine their needs, that you ask clarifying questions to better understand and avoid ambiguity. This same mindset, also applies to when I'm designing software. I make sure I understand what it is and what the outcome is supposed to achieve. But while doing so, I make sure I incorporate as much security as I can while also maintaing efficiency. I also find that unit testing after I design a new method helps a lot so I'm not searching for the where the errors come from. 
